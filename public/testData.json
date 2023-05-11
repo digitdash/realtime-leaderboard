@@ -1,0 +1,62 @@
+[
+    {
+      "userID": "aaaaaaaaaa",
+      "displayName": "WarMakeup",
+      "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+      "score": 157000
+    },
+    {
+      "userID": "bbbbbbbbbb",
+      "displayName": "EmberGap",
+      "picture": "https://randomuser.me/api/portraits/men/67.jpg",
+      "score": 46200
+    },
+    {
+      "userID": "cccccccccc",
+      "displayName": "AsterStout",
+      "picture": "https://randomuser.me/api/portraits/men/3.jpg",
+      "score": 38800
+    },
+    {
+      "userID": "dddddddddd",
+      "displayName": "JokerNut",
+      "picture": "https://randomuser.me/api/portraits/women/60.jpg",
+      "score": 33400
+    },
+    {
+      "userID": "eeeeeeeeee",
+      "displayName": "DustPopcorn",
+      "picture": "https://randomuser.me/api/portraits/men/79.jpg",
+      "score": 31600
+    },
+    {
+      "userID": "ffffffffff",
+      "displayName": "HauntedTrust",
+      "picture": "https://randomuser.me/api/portraits/men/57.jpg",
+      "score": 30800
+    },
+    {
+      "userID": "gggggggggg",
+      "displayName": "RacingPack",
+      "picture": "https://randomuser.me/api/portraits/men/17.jpg",
+      "score": 22300
+    },
+    {
+      "userID": "hhhhhhhhhh",
+      "displayName": "DocRookie",
+      "picture": "https://randomuser.me/api/portraits/men/59.jpg",
+      "score": 17800
+    },
+    {
+      "userID": "iiiiiiiiiii",
+      "displayName": "MacheteFee",
+      "picture": "https://randomuser.me/api/portraits/women/56.jpg",
+      "score": 17300
+    },
+    {
+      "userID": "jjjjjjjjjj",
+      "displayName": "WhisperBoom",
+      "picture": "https://randomuser.me/api/portraits/men/34.jpg",
+      "score": 15400
+    }
+  ]
