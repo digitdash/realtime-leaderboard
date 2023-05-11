@@ -1,13 +1,6 @@
-//////////////////////////////
-//
-// Ranking Test Helper
-//
-// Author: k80092@hotmail.com
-//
-///////////////////////////////
 
 /**
- * Get RankingJSON Data
+ * Get Leaderboard JSON Data
  *
  * @param String url
  */
@@ -27,7 +20,7 @@
 }
 
 /**
- * Change Scores of every streamer (Random)
+ * Change Wager amount of every streamer (Randomized for testing)
  * 
  * @param Array  arr
  * @param Number refreshTime
@@ -51,7 +44,7 @@ export async function changeRandomScore(arr, refreshTime) {
 }
 
 /**
- * Bubble Sroting
+ * Bubble Sorting
  *
  * @param Array arr
  */
@@ -72,7 +65,7 @@ export async function bubbleSort(arr) {
 }
 
 /**
- * Swap animation
+ * Switching position animation
  *
  * @param Object target
  * @param Number swapHeight
